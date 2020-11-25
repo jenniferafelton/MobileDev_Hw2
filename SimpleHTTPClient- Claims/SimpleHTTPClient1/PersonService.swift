@@ -2,10 +2,9 @@
 //  ClaimService.swift
 //  SimpleHttpClient
 //
-//  Created by ITLoaner on 10/1/20.
-//  Copyright © 2020 ITLoaner. All rights reserved.
+//  Created by Jenni on 10/1/20.
 //
-
+//
 import Foundation
 
 struct Claim : Codable {

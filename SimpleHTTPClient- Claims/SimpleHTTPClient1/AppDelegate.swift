@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SimpleHTTPClient1
 //
-//  Created by ITLoaner on 10/6/20.
+//  Created by Jenni on 10/6/20.
 //  Copyright © 2020 ITLoaner. All rights reserved.
 //
 
